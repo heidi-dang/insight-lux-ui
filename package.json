@@ -2,7 +2,7 @@
   "name": "insight-lux-ui",
   "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the lux network and build your own services with it.",
   "version": "0.4.6",
-  "repository": "git://github.com/lux-core/insight-lux-ui.git",
+  "repository": "git://github.com/heidi-dang/insight-lux-ui.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/bitpay/insight-ui/issues"
   },
-  "homepage": "https://github.com/lux-core/insight-lux-ui",
+  "homepage": "https://github.com/heidi-dang/insight-lux-ui",
   "license": "MIT",
   "keywords": [
     "insight",
